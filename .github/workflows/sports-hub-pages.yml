@@ -1,4 +1,5 @@
 name: Deploy Sports Hub to GitHub Pages
+# Deployment retry after Pages setup
 on:
   push:
     branches: [main]
